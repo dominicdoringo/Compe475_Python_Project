@@ -34,7 +34,7 @@ Run with: `pip install colorama` then `python3 main.py`
 - Answering within 8 seconds earns a "Speed Demon" badge.
 - Badges are stored as bits in a single integer (see game_logic.py) — a
   clean, real example of bitwise operators.
-  - This code uses
+  - Similar to How to be a millionaire
 
 ## For the presentation
 For each concept, open the file, point at the line, and say what it does.
