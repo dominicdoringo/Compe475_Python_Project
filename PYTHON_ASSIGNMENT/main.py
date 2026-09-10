@@ -50,7 +50,7 @@ def game_loop():
     badges = 0b000
     streak = 0
     round_number = 1
-    rounds_to_play = 6
+    rounds_to_play = 3
     total_possible = 0
 
     category_list = list(questions.get_categories())  # SET -> LIST conversion
