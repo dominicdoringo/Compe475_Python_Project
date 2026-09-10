@@ -1,5 +1,5 @@
 """
-game_logic.py — owned by: Logic Lead
+game_logic.py — owned by: Angel
 
 Concepts demonstrated in this file:
   - Python Operators: logical (and, or, not) AND bitwise (&, |, ^, ~)

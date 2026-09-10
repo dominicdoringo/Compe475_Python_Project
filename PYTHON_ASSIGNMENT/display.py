@@ -1,5 +1,5 @@
 """
-display.py — owned by: Strings / PIP / Polish Lead
+display.py — owned by: Sakshi
 
 Concepts demonstrated in this file:
   - Python Strings (formatting, methods)

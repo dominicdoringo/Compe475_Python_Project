@@ -1,5 +1,5 @@
 """
-questions.py — owned by: Data Lead
+questions.py — owned by: Arjay
 
 Concepts demonstrated in this file:
   - Python Dictionaries (question bank organized by category)
