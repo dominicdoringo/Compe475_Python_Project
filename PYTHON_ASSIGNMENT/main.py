@@ -1,5 +1,5 @@
 """
-main.py — owned by: Project Lead
+main.py 
 
 Concepts demonstrated in this file:
   - Python Syntax (structure, indentation, comments)
